@@ -1,2 +1,2 @@
-# Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Google Earth Engine
+# Instruksi Penggunaan Buku
 Project in progress...
