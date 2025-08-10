@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Social Icons</title>
-  <style>
-
-  </style>
-</head>
+<html>
 <body>
   <div class="social-icons">
     <a href="https://www.instagram.com/syamani_ulm">
