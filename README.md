@@ -1,7 +1,13 @@
 <html>
+  
 <p><a href="https://www.instagram.com/syamani_ulm">
 <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram" alt="instagram" />
 </a></p>
+
+<p><a href="https://web.facebook.com/syamani.ulm">
+<img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook" alt="facebook" />
+</a></p>
+  
 </html>
 
 # Instruksi Penggunaan Buku
