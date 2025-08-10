@@ -4,16 +4,7 @@
   <meta charset="UTF-8" />
   <title>Social Icons</title>
   <style>
-    /* Tambahkan spasi 8px di kanan setiap <a> */
-    .social-icons a {
-      display: inline-block;
-      margin-right: 8px;
-    }
 
-    /* Kalau tidak mau ada margin di akhir baris, bisa tambahkan: */
-    .social-icons a:last-child {
-      margin-right: 0;
-    }
   </style>
 </head>
 <body>
@@ -22,18 +13,21 @@
       <img
         src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=32"
         alt="instagram"
+        style="padding-bottom: 20px
       />
     </a>
     <a href="https://web.facebook.com/syamani.ulm">
       <img
         src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=32"
         alt="facebook"
+        style="padding-bottom: 20px
       />
     </a>
     <a href="https://linkedin.com/in/syamaniulm">
       <img
         src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=32"
         alt="linkedin"
+        style="padding-bottom: 20px
       />
     </a>
     <a href="https://www.youtube.com/c/geospatialcorner">
