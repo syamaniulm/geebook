@@ -5,21 +5,18 @@
       <img
         src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=32"
         alt="instagram"
-        style="margin-right: 20px
       />
     </a>
     <a href="https://web.facebook.com/syamani.ulm">
       <img
         src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=32"
         alt="facebook"
-        style="padding-right: 20px
       />
     </a>
     <a href="https://linkedin.com/in/syamaniulm">
       <img
         src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=32"
         alt="linkedin"
-        style="padding-right: 20px
       />
     </a>
     <a href="https://www.youtube.com/c/geospatialcorner">
