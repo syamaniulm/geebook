@@ -7,6 +7,10 @@
 <a href="https://web.facebook.com/syamani.ulm">
 <img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook" alt="facebook" />
 </a></p>
+
+<a href="https://linkedin.com/in/syamaniulm">
+<img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin" alt="linkedin" />
+</a></p>
   
 </html>
 
