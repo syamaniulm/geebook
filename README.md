@@ -5,7 +5,7 @@
       <img
         src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=32"
         alt="instagram"
-        style="padding-bottom: 20px
+        style="padding-right: 20px
       />
     </a>
     <a href="https://web.facebook.com/syamani.ulm">
