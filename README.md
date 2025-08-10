@@ -1,5 +1,5 @@
 <html>
-  
+<div class="horizontalgap" style="width:10px">
 <p>
 
 <a href="https://www.instagram.com/syamani_ulm">
@@ -19,7 +19,7 @@
 </a>
 
 </p>
-  
+</div>
 </html>
 
 # Instruksi Penggunaan Buku
