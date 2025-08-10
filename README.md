@@ -1,16 +1,20 @@
 <html>
   
-<p><a href="https://www.instagram.com/syamani_ulm">
+<p>
+
+<a href="https://www.instagram.com/syamani_ulm">
 <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram" alt="instagram" />
 </a>
 
 <a href="https://web.facebook.com/syamani.ulm">
 <img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook" alt="facebook" />
-</a></p>
+</a>
 
 <a href="https://linkedin.com/in/syamaniulm">
 <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin" alt="linkedin" />
-</a></p>
+</a>
+
+</p>
   
 </html>
 
