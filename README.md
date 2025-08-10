@@ -1,5 +1,5 @@
 <html>
-<div class="horizontalgap" style="width:10px">
+<div class="horizontalgap" style="width:100px">
 <p>
 
 <a href="https://www.instagram.com/syamani_ulm">
