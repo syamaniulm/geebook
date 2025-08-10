@@ -3,15 +3,19 @@
 <p>
 
 <a href="https://www.instagram.com/syamani_ulm">
-<img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=24" alt="instagram" />
+<img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=32" alt="instagram" />
 </a>
 
 <a href="https://web.facebook.com/syamani.ulm">
-<img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=24" alt="facebook" />
+<img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=32" alt="facebook" />
 </a>
 
 <a href="https://linkedin.com/in/syamaniulm">
-<img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=24" alt="linkedin" />
+<img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=32" alt="linkedin" />
+</a>
+
+<a href="https://www.youtube.com/c/geospatialcorner">
+<img src="https://readmecodegen.vercel.app/api/social-icon?name=youtube&size=32" alt="youtube" />
 </a>
 
 </p>
