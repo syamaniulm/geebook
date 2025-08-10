@@ -1,25 +1,49 @@
-<html>
-<div>
-<p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Social Icons</title>
+  <style>
+    /* Tambahkan spasi 8px di kanan setiap <a> */
+    .social-icons a {
+      display: inline-block;
+      margin-right: 8px;
+    }
 
-<a href="https://www.instagram.com/syamani_ulm">
-<img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=32" alt="instagram" />
-</a>
-
-<a href="https://web.facebook.com/syamani.ulm">
-<img src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=32" alt="facebook" />
-</a>
-
-<a href="https://linkedin.com/in/syamaniulm">
-<img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=32" alt="linkedin" />
-</a>
-
-<a href="https://www.youtube.com/c/geospatialcorner">
-<img src="https://readmecodegen.vercel.app/api/social-icon?name=youtube&size=32" alt="youtube" />
-</a>
-
-</p>
-</div>
+    /* Kalau tidak mau ada margin di akhir baris, bisa tambahkan: */
+    .social-icons a:last-child {
+      margin-right: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="social-icons">
+    <a href="https://www.instagram.com/syamani_ulm">
+      <img
+        src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=32"
+        alt="instagram"
+      />
+    </a>
+    <a href="https://web.facebook.com/syamani.ulm">
+      <img
+        src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=32"
+        alt="facebook"
+      />
+    </a>
+    <a href="https://linkedin.com/in/syamaniulm">
+      <img
+        src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=32"
+        alt="linkedin"
+      />
+    </a>
+    <a href="https://www.youtube.com/c/geospatialcorner">
+      <img
+        src="https://readmecodegen.vercel.app/api/social-icon?name=youtube&size=32"
+        alt="youtube"
+      />
+    </a>
+  </div>
+</body>
 </html>
 
 # Instruksi Penggunaan Buku
