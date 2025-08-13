@@ -27,6 +27,7 @@ Python, Google Earth Engine, Google Colab, dan perangkat lunak terkait, akan ter
 Syam'ani<br/>
 Universitas Lambung Mangkurat
 #
+<br/>
 <html>
 <body>
   <div class="social-icons">
