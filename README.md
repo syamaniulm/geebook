@@ -25,6 +25,8 @@ Python, Google Earth Engine, Google Colab, dan perangkat lunak terkait akan teru
 
 
 Syam'ani<br/>
+Laboratorium Informasi Geospasial<br/>
+Fakultas Kehutanan<br/>
 Universitas Lambung Mangkurat
 #
 <br/>
