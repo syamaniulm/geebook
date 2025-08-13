@@ -20,7 +20,8 @@ git clone https://github.com/syamaniulm/geebook
 ```
 
 ### Penafian:
-Python, Google Earth Engine, Google Colab, dan perangkat lunak terkait, akan terus berkembang setiap saat. Dan karena buku ini berisi petunjuk-petunjuk teknis langkah demi langkah, akan sangat mungkin pada saat Anda membaca beberapa bagian buku ini, langkah-langkah yang disajikan sudah *out of date*. Sehingga direkomendasikan Anda harus menelusuri sendiri referensi-referensi terbaru yang lebih *up to date* untuk bagian-bagian tersebut.<br/> #
+Python, Google Earth Engine, Google Colab, dan perangkat lunak terkait, akan terus berkembang setiap saat. Dan karena buku ini berisi petunjuk-petunjuk teknis langkah demi langkah, akan sangat mungkin pada saat Anda membaca beberapa bagian buku ini, langkah-langkah yang disajikan sudah *out of date*. Sehingga direkomendasikan Anda harus menelusuri sendiri referensi-referensi terbaru yang lebih *up to date* untuk bagian-bagian tersebut.
+#
 
 
 Syam'ani<br/>
