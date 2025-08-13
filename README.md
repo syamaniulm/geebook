@@ -15,8 +15,10 @@ Untuk mengikuti tutorial yang ada di dalam buku langkah demi langkah, Anda harus
 
 ### Cloning repositori menggunakan Git
 
-Jika Anda sudah menginstal software Git (https://git-scm.com/) di komputer Anda, Anda dapat secara langsung mengkloning repositori ini melalui terminal/command prompt. Caranya, via terminal/command prompt, masuk terlebih dahulu ke dalam drive atau folder yang nantinya akan dijadikan tempat untuk menyimpan folder ```geebook```. Kemudian dalam posisi online, ketikkan dan eksekusi perintah berikut:<br/><br/>
-```git clone https://github.com/syamaniulm/geebook```<br/><br/>
+Jika Anda sudah menginstal software Git (https://git-scm.com/) di komputer Anda, Anda dapat secara langsung mengkloning repositori ini melalui terminal/command prompt. Caranya, via terminal/command prompt, masuk terlebih dahulu ke dalam drive atau folder yang nantinya akan dijadikan tempat untuk menyimpan folder ```geebook```. Kemudian dalam posisi online, ketikkan dan eksekusi perintah berikut:<br/>
+```
+git clone https://github.com/syamaniulm/geebook
+```
 
 Syam'ani<br/>
 Universitas Lambung Mangkurat<br/>
