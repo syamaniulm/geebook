@@ -6,7 +6,7 @@ Untuk mengikuti tutorial yang ada di dalam buku langkah demi langkah, Anda harus
 <html>
   <body>
     <div>
-      <img src="./img/zip_download.png" alt="Download Zip" width="256">
+      <img src="./img/zip_download.png" alt="Download Zip" width="512">
     </div>
   </body>
 </html>
