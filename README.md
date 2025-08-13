@@ -19,7 +19,7 @@ Jika Anda sudah menginstal software Git (https://git-scm.com/) di komputer Anda,
 git clone https://github.com/syamaniulm/geebook
 ```
 
-## Penafian:
+## Penafian
 Python, Google Earth Engine, Google Colab, dan perangkat lunak terkait akan terus berkembang setiap saat. Sebagai konsekuensinya, akan sangat mungkin bahwa pada saat Anda membaca beberapa bagian buku ini, langkah-langkah teknis yang disajikan sudah ketinggalan atau tidak berlaku lagi. Oleh karena itu, Anda direkomendasikan untuk menelusuri sendiri referensi-referensi terbaru untuk bagian-bagian yang sudah ketinggalan tersebut.
 #
 
