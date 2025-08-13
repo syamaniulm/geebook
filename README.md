@@ -3,7 +3,13 @@ Buku direncanakan terdiri atas 2 volume. Volume 1, yang berjudul **Pemrosesan Ci
 
 Untuk mengikuti tutorial yang ada di dalam buku langkah demi langkah, Anda harus mengunduh paket data geospasial yang disediakan di repositori ini terlebih dahulu. Silahkan klik tombol Code --> Download Zip, sebagaimana terlihat pada gambar berikut:<br/>
 
-![Alt text](./img/zip_download.png)
+<html>
+  <body>
+    <div>
+      <img src="./img/zip_download.png" alt="Download Zip" width="512">
+    </div>
+  </body>
+</html>
 
 <br/>Data akan terunduh dalam bentuk file Zip, sehingga harus diekstrak terlebih dahulu. Setelah diekstrak, ambil folder ```geebook``` yang ada di dalam folder hasil ekstraksi, kemudian tempatkan pada local drive Anda (misalnya drive D), atau unggah ke dalam Google Drive Anda.<br/><br/>
 
