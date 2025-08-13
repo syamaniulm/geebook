@@ -1,7 +1,11 @@
 # Instruksi Penggunaan Buku
 Buku direncanakan terdiri atas 2 volume. Volume 1, yang berjudul **Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Google Earth Engine, Volume 1: Fundamentals**, terbit pada Agustus 2025. Sementara volume 2 direncanakan akan menyusul terbit pada tahun 2026.<br/><br/>
 
-Untuk mengikuti tutorial yang ada di dalam buku langkah demi langkah, Anda harus mengunduh paket data geospasial yang disediakan di repositori ini terlebih dahulu. Silahkan klik tombol Code --> Download Zip, atau klik langsung di tautan ini https://github.com/syamaniulm/geebook/archive/refs/heads/main.zip. Data akan terunduh dalam bentuk file Zip, sehingga harus diekstrak terlebih dahulu. Setelah diekstrak, ambil folder ```geebook``` yang ada di dalam folder hasil ekstraksi, kemudian tempatkan pada local drive Anda (misalnya drive D), atau unggah ke dalam Google Drive Anda.<br/><br/>
+Untuk mengikuti tutorial yang ada di dalam buku langkah demi langkah, Anda harus mengunduh paket data geospasial yang disediakan di repositori ini terlebih dahulu. Silahkan klik tombol Code --> Download Zip, sebagaimana terlihat pada gambar berikut:<br/>
+
+![Alt text](./img/zip_download.png)
+
+<br/>Data akan terunduh dalam bentuk file Zip, sehingga harus diekstrak terlebih dahulu. Setelah diekstrak, ambil folder ```geebook``` yang ada di dalam folder hasil ekstraksi, kemudian tempatkan pada local drive Anda (misalnya drive D), atau unggah ke dalam Google Drive Anda.<br/><br/>
 
 ### Cloning repositori menggunakan Git
 
@@ -9,7 +13,7 @@ Jika Anda sudah menginstal software Git (https://git-scm.com/) di komputer Anda,
 ```git clone https://github.com/syamaniulm/geebook```<br/><br/>
 
 Syam'ani<br/>
-Universitas Lambung Mangkurat<br/><br/>
+Universitas Lambung Mangkurat<br/>
 
 <html>
 <body>
