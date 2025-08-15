@@ -23,6 +23,19 @@ git clone https://github.com/syamaniulm/geebook
 Python, Google Earth Engine, Google Colab, dan perangkat lunak terkait akan terus berkembang setiap saat. Sebagai konsekuensinya, akan sangat mungkin bahwa pada saat Anda membaca beberapa bagian buku ini, langkah-langkah teknis yang disajikan sudah ketinggalan atau tidak berlaku lagi. Oleh karena itu, Anda direkomendasikan untuk menelusuri sendiri referensi-referensi terbaru untuk bagian-bagian yang sudah ketinggalan tersebut.
 #
 
+## Petunjuk Sitasi
+Syam’ani. (2025). Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Google Earth Engine, Volume 1: Fundamentals. Banjarmasin: ULM Press.<br/>
+### BibTeX
+```
+@book{syamani2025,
+  title     = "Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Google Earth Engine, Volume 1: Fundamentals",
+  author    = "Syam'ani",
+  year      = 2025,
+  publisher = "ULM Press",
+  address   = "Banjarmasin"
+}
+```
+#
 
 Syam'ani<br/>
 Laboratorium Informasi Geospasial<br/>
