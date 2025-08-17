@@ -45,7 +45,7 @@ Python, Google Earth Engine, Google Colab, dan perangkat lunak terkait akan teru
 
 ## Petunjuk Sitasi
 
-***APA Style:***<br/><br/>
+***APA Style:***<br/>
 Syam’ani. (2025). Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Google Earth Engine, Volume 1: Fundamentals. Banjarmasin: ULM Press.<br/>
 ### BibTeX
 ```
