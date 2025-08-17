@@ -11,7 +11,7 @@ Untuk mengikuti tutorial yang ada di dalam buku langkah demi langkah, Anda harus
   </body>
 </html>
 
-<br/>Data akan terunduh dalam bentuk file ZIP, sehingga harus diekstrak terlebih dahulu. Setelah diekstrak, ambil folder ```geebook``` yang ada di dalam folder hasil ekstraksi, kemudian tempatkan pada local drive Anda (misalnya drive D), atau unggah ke dalam Google Drive Anda.<br/>
+<br/>Data akan terunduh dalam bentuk file ZIP, sehingga harus diekstrak terlebih dahulu. Setelah diekstrak, ambil folder ```geebook``` yang ada di dalam folder hasil ekstraksi, kemudian tempatkan pada local drive Anda (misalnya drive D), atau unggah ke dalam Google Drive Anda. Jika Anda ingin mengoperasikan Google Earth Engine menggunakan *cloud*, yaitu Google Colab, maka folder ```geebook``` wajib Anda unggah ke Google Drive. Dan jika Anda menjalankan Google Earth Engine menggunakan JupyterLab atau VS Code yang terinstal di komputer Anda, maka folder ```geebook``` juga harus tersimpan di komputer Anda.<br/>
 
 Di dalam Microsoft Windows, struktur path data Anda direkomendasikan seperti ini:<br/>
 ```
