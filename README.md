@@ -13,7 +13,7 @@ Untuk mengikuti tutorial yang ada di dalam buku langkah demi langkah, Anda harus
 
 <br/>Data akan terunduh dalam bentuk file ZIP, sehingga harus diekstrak terlebih dahulu. Setelah diekstrak, ambil folder ```geebook``` yang ada di dalam folder hasil ekstraksi, kemudian tempatkan pada local drive Anda (misalnya drive D), atau unggah ke dalam Google Drive Anda.<br/>
 
-Di dalam Microsoft Windows, direkomendasikan path data Anda seperti ini:<br/>
+Di dalam Microsoft Windows, struktur path data Anda direkomendasikan seperti ini:<br/>
 ```
 D:\geebook
           \imagery
@@ -23,7 +23,15 @@ D:\geebook
           \vector
 ```
 
-Untuk sistem operasi lain, e.g. GNU/Linux atau Apple macOS, termasuk di dalam Google Drive, lokasinya dapat menyesuaikan.
+Untuk sistem operasi lain, e.g. GNU/Linux atau Apple macOS, lokasinya dapat menyesuaikan. Dan untuk berikut adalah rekomendasi path di dalam Google Drive:<br/>
+
+<html>
+  <body>
+    <div>
+      <img src="./img/gdrive_path.png" alt="Download Zip" width="512">
+    </div>
+  </body>
+</html>
 
 ### Cloning repositori menggunakan Git
 Jika Anda sudah menginstal software Git (https://git-scm.com/) di komputer Anda, Anda dapat secara langsung mengkloning repositori ini melalui terminal/command prompt. Caranya, via terminal/command prompt, masuk terlebih dahulu ke dalam drive atau folder yang nantinya akan dijadikan tempat untuk menyimpan folder ```geebook```. Kemudian dalam posisi online, ketikkan dan eksekusi perintah berikut:<br/>
