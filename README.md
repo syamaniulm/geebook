@@ -23,7 +23,7 @@ D:\geebook
           \vector
 ```
 
-Untuk sistem operasi lain, e.g. GNU/Linux atau Apple macOS, lokasinya dapat menyesuaikan. Dan untuk Google Drive, folder ```geebook``` yang sudah diekstrak direkomendasikan diunggah ke dalam folder ```My Drive```. Sebagaimana terlihat seperti pada gambar berikut:<br/>
+Untuk sistem operasi lain, e.g. GNU/Linux atau Apple macOS, lokasinya dapat menyesuaikan. Dan untuk Google Drive, folder ```geebook``` yang sudah diekstrak diunggah ke dalam ```My Drive```. Sebagaimana terlihat pada gambar berikut:<br/>
 
 <html>
   <body>
