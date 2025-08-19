@@ -33,11 +33,13 @@ Untuk sistem operasi lain, e.g. GNU/Linux atau Apple macOS, lokasinya dapat meny
   </body>
 </html>
 
-### Cloning repositori menggunakan Git
+### Kloning repositori menggunakan Git
 Jika Anda sudah menginstal software Git (https://git-scm.com/) di komputer Anda, Anda dapat secara langsung mengkloning repositori ini melalui terminal/command prompt. Caranya, via terminal/command prompt, masuk terlebih dahulu ke dalam drive atau folder yang nantinya akan dijadikan tempat untuk menyimpan folder ```geebook```. Kemudian dalam posisi online, ketikkan dan eksekusi perintah berikut:<br/>
 ```
 git clone https://github.com/syamaniulm/geebook
 ```
+
+Karena proses kloning otomatis menggunakan Git akan mengunduh repositori ini secara keseluruhan, selanjutnya Anda cukup ambil folder ```geebook``` saja dari folder hasil kloning, untuk ditempatkan di drive D misalnya.
 
 ## Penafian
 Python, Google Earth Engine, Google Colab, dan perangkat lunak terkait akan terus berkembang setiap saat. Sebagai konsekuensinya, akan sangat mungkin bahwa pada saat Anda membaca beberapa bagian buku ini, langkah-langkah teknis yang disajikan sudah ketinggalan atau tidak berlaku lagi. Oleh karena itu, Anda direkomendasikan untuk menelusuri sendiri referensi-referensi terbaru untuk bagian-bagian yang sudah ketinggalan tersebut.
