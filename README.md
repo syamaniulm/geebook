@@ -39,7 +39,7 @@ Jika Anda sudah menginstal software Git (https://git-scm.com/) di komputer Anda,
 git clone https://github.com/syamaniulm/geebook
 ```
 
-Karena proses kloning otomatis menggunakan Git akan mengunduh repositori ini secara keseluruhan, selanjutnya Anda cukup ambil folder ```geebook``` saja dari folder hasil kloning, untuk ditempatkan di drive D misalnya.
+Proses kloning otomatis menggunakan Git akan mengunduh repositori ini secara keseluruhan, tidak hanya folder ```geebook```. Untuk selanjutnya, Anda cukup ambil folder ```geebook``` saja dari folder hasil kloning, untuk diunggah ke Google Drive atau ditempatkan di drive D misalnya.
 
 ## Penafian
 Python, Google Earth Engine, Google Colab, dan perangkat lunak terkait akan terus berkembang setiap saat. Sebagai konsekuensinya, akan sangat mungkin bahwa pada saat Anda membaca beberapa bagian buku ini, langkah-langkah teknis yang disajikan sudah ketinggalan atau tidak berlaku lagi. Oleh karena itu, Anda direkomendasikan untuk menelusuri sendiri referensi-referensi terbaru untuk bagian-bagian yang sudah ketinggalan tersebut.
