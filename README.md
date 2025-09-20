@@ -58,7 +58,7 @@ Syam’ani. (2025). Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Googl
   year      = 2025,
   publisher = "ULM Press",
   address   = "Banjarmasin",
-  isbn      = "In progress..."
+  isbn      = "978-634-7195-31-9 (jil.1)"
 }
 ```
 #
