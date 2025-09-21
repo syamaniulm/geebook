@@ -1,3 +1,5 @@
+Link buku in progress...<br/>
+
 # Instruksi Penggunaan Buku
 Buku **Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Google Earth Engine, Volume 1: Fundamentals**  ditulis sejak Mei 2024, dan telah terbit pada Agustus 2025. Buku lanjutannya, yaitu volume 2, direncanakan akan menyusul terbit pada tahun 2026. Buku ini digratiskan untuk digunakan oleh publik, termasuk data geospasial dan kode-kode yang menyertainya.<br/><br/>
 
