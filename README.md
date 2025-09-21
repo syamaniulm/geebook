@@ -60,8 +60,23 @@ Syam’ani. (2025). Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Googl
   year      = 2025,
   publisher = "ULM Press",
   address   = "Banjarmasin",
-  isbn      = "978-634-7195-31-9 (jil.1)"
+  isbn      = "978-634-7195-31-9"
 }
+```
+#
+
+### RIS
+```
+TY  - BOOK
+AU  - Syam'ani, 
+TI  - Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Google Earth
+      Engine, Volume 1: Fundamentals
+PY  - 2025
+DA  - Agustus
+PB  - ULM Press
+CY  - Banjarmasin
+SN  - 9786347195319
+ER  - 
 ```
 #
 
