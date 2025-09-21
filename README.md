@@ -69,8 +69,7 @@ Syam’ani. (2025). Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Googl
 ```
 TY  - BOOK
 AU  - Syam'ani, 
-TI  - Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Google Earth
-      Engine, Volume 1: Fundamentals
+TI  - Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Google Earth Engine, Volume 1: Fundamentals
 PY  - 2025
 DA  - Agustus
 PB  - ULM Press
