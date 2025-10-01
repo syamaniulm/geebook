@@ -1,7 +1,7 @@
 <html>
   <body>
     <div>
-      <img src="./img/cover_gee_vol1.jpg" alt="Volume 1 Book Cover" width="256">
+      <img src="./img/cover_gee_vol1.jpg" alt="Volume 1 Book Cover" width="128">
     </div>
   </body>
 </html>
