@@ -1,4 +1,10 @@
-Link buku in progress...<br/>
+<html>
+  <body>
+    <div>
+      <img src="./img/cover_gee_vol1.jpg" alt="Volume 1 Book Cover" width="512">
+    </div>
+  </body>
+</html>
 
 # Instruksi Penggunaan Buku
 Buku **Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Google Earth Engine, Volume 1: Fundamentals**  ditulis sejak Mei 2024, dan telah terbit pada Agustus 2025. Buku lanjutannya, yaitu volume 2, direncanakan akan menyusul terbit pada tahun 2026. Buku ini digratiskan untuk digunakan oleh publik, termasuk data geospasial dan kode-kode yang menyertainya.<br/><br/>
@@ -30,7 +36,7 @@ Untuk sistem operasi lain, e.g. GNU/Linux atau Apple macOS, lokasinya dapat meny
 <html>
   <body>
     <div>
-      <img src="./img/gdrive_path.png" alt="Download Zip" width="512">
+      <img src="./img/gdrive_path.png" alt="Google Drive Path" width="512">
     </div>
   </body>
 </html>
@@ -63,7 +69,6 @@ Syam’ani. (2025). Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Googl
   isbn      = "978-634-7195-31-9"
 }
 ```
-#
 
 ### RIS
 ```
