@@ -1,7 +1,9 @@
 <html>
   <body>
     <div>
-      <img src="./img/cover_gee_vol1.jpg" alt="Volume 1 Book Cover" width="200">
+      <a href="https://github.com/syamaniulm/geebook/blob/main/Ebook_Inderaja_Python_GEE_Vol1_Syamani.pdf">
+        <img src="./img/cover_gee_vol1.jpg" alt="Ebook Volume 1 Link" style="width:200px;">
+      </a>
     </div>
   </body>
 </html>
