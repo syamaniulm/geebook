@@ -12,7 +12,7 @@
 Tiga tantangan utama di dalam pemrosesan citra penginderaan jauh digital:<br/>
 1. *Big earth data*, yaitu besarnya data citra hasil observasi bumi yang diproses.
 2. Tingginya spesifikasi perangkat keras yang diperlukan untuk pemrosesan.
-3. Mahalnya harga perangkat lunak yang digunakan untuk pemrosesan.
+3. Mahalnya harga perangkat lunak yang digunakan untuk pemrosesan, walaupun ada opsi perangkat lunak *free open source*.
 
 Kehadiran platfom *cloud-computing* (komputasi awan) seperti Google Earth Engine (GEE), mampu meminimalisir atau bahkan mengeliminir ketiga tantangan tersebut. Teknologi komputasi awan memungkinkan kita untuk memproses citra penginderaan jauh tanpa instalasi perangkat lunak khusus di komputer kita, sebab pemrosesan sepenuhnya dilakukan di server. Yang kita perlukan hanya komputer, sistem operasi bebas (Windows, Linux, macOS, atau yang lainnya), aplikasi browser (Google Chrome, Microsoft Edge, Mozilla Firefox, Apple Safari, atau yang lainnya), dan tentu saja akses internet yang cepat dan stabil selama pemrosesan.<br/>
 
