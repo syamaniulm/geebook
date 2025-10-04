@@ -8,6 +8,14 @@
   </body>
 </html>
 
+# Intro
+Tiga tantangan utama di dalam pemrosesan citra penginderaan jauh:<br/>
+1. *Big earth data*, yaitu besarnya citra hasil observasi bumi yang kita proses.
+2. Tingginya spesifikasi perangkat keras yang diperlukan untuk pemrosesan.
+3. Mahalnya harga perangkat lunak yang digunakan untuk pemrosesan.
+<br/>
+Kehadiran platfom *cloud-computing* seperti Google Earth Engine (GEE), mampu meminimalisir atau bahkan mengeliminir ketiga tantangan tersebut.<br/>
+
 # Instruksi Penggunaan Buku
 Buku **Pemrosesan Citra Penginderaan Jauh Berbasis Python dan Google Earth Engine, Volume 1: Fundamentals**  ditulis sejak Mei 2024, dan telah terbit pada Agustus 2025. Buku lanjutannya, yaitu volume 2, direncanakan akan menyusul terbit pada tahun 2026. Buku ini digratiskan untuk digunakan oleh publik, termasuk data geospasial dan kode-kode yang menyertainya.<br/><br/>
 
